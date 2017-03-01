@@ -1,2 +1,2 @@
 for i in range(10):
-    print i, 'OK'
+    print i, 'OK', 'test'
